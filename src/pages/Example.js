@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import InputNumber from "elements/Form/InputNumber";
+import { InputNumber } from "elements/Form";
 export default class Example extends Component {
   state = {
     duration: "1",
